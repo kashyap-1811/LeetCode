@@ -1,66 +1,68 @@
 class Solution {
 public:
-    void setZeroes(vector<vector<int>>& matrix){
-        //check for first row and forst column
+    void setZeroes(vector<vector<int>>& matrix) {
+        int rows = matrix.size();
+        int cols = matrix[0].size();
 
-        bool row = false;
-        bool col = false;
+        bool firstRowHasZero = false;
+        bool firstColHasZero = false;
 
-        for(int i=0; i<matrix.size(); i++)
-            if(matrix[i][0] == 0)
-                row = true;
+        // Check if the first row contains zero
+        for (int c = 0; c < cols; c++) {
+            if (matrix[0][c] == 0) {
+                firstRowHasZero = true;
+                break;
+            }
+        }
 
-        for(int j=0; j<matrix[0].size(); j++)
-            if(matrix[0][j] == 0)
-                col = true;
+        // Check if the first column contains zero
+        for (int r = 0; r < rows; r++) {
+            if (matrix[r][0] == 0) {
+                firstColHasZero = true;
+                break;
+            }
+        }
 
-        for(int i=0; i<matrix.size(); i++)
-        {
-            for(int j=0; j<matrix[i].size(); j++)
-            {
-                if(matrix[i][j] == 0)
-                {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
+        // Use the first row and column as markers
+        for (int r = 1; r < rows; r++) {
+            for (int c = 1; c < cols; c++) {
+                if (matrix[r][c] == 0) {
+                    matrix[r][0] = 0;
+                    matrix[0][c] = 0;
                 }
             }
         }
 
-        for(int i=0; i<matrix.size(); i++)
-        {
-            for(int j=0; j<matrix[i].size(); j++)
-                cout<<matrix[i][j]<<" ";
-            cout<<endl;
-        }
-
-        //make whole row and col zero
-        for(int i=1; i<matrix.size(); i++)
-        {
-            if(matrix[i][0] == 0)
-            {
-                for(int j=1; j<matrix[i].size(); j++)
-                    matrix[i][j] = 0;
+        // Set the marked rows to zero
+        for (int r = 1; r < rows; r++) {
+            if (matrix[r][0] == 0) {
+                for (int c = 1; c < cols; c++) {
+                    matrix[r][c] = 0;
+                }
             }
         }
 
-        for(int j=1; j<matrix[0].size(); j++)
-        {
-            if(matrix[0][j] == 0)
-            {
-                for(int i=1; i<matrix.size(); i++)
-                    matrix[i][j] = 0;
+        // Set the marked columns to zero
+        for (int c = 1; c < cols; c++) {
+            if (matrix[0][c] == 0) {
+                for (int r = 1; r < rows; r++) {
+                    matrix[r][c] = 0;
+                }
             }
         }
 
-        if(col)
-        {
-            for(int j=0; j<matrix[0].size(); j++)
-                matrix[0][j] = 0;
+        // Set the first row to zero if needed
+        if (firstRowHasZero) {
+            for (int c = 0; c < cols; c++) {
+                matrix[0][c] = 0;
+            }
         }
-        if(row)
-        {
-            for(int i=0; i<matrix.size(); i++)
-                matrix[i][0] = 0;
-        }
+
+        // Set the first column to zero if needed
+        if (firstColHasZero) {
+            for (int r = 0; r < rows; r++) {
+                matrix[r][0] = 0;
+            }
+        }        
     }
 };
