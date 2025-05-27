@@ -5,7 +5,7 @@ public:
 
         int divisible = (n/(m))*(2*m + (n/m -1)*m)/2;
 
-        cout<<count<<" "<<divisible<<endl;
+        // cout<<count<<" "<<divisible<<endl;
 
         return count - divisible - divisible;
     }
