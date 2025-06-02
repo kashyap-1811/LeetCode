@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kashyap-1811/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/kashyap-1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/kashyap-1811/LeetCode/tree/master/0922-possible-bipartition) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/kashyap-1811/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kashyap-1811/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kashyap-1811/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kashyap-1811/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
