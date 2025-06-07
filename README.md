@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kashyap-1811/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/kashyap-1811/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kashyap-1811/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Two Pointers
 |  |
@@ -72,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kashyap-1811/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kashyap-1811/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
 |  |
 | ------- |
@@ -142,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kashyap-1811/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
