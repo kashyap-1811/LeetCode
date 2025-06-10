@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kashyap-1811/LeetCode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/kashyap-1811/LeetCode/tree/master/0127-word-ladder) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kashyap-1811/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kashyap-1811/LeetCode/tree/master/0022-generate-parentheses) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kashyap-1811/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/kashyap-1811/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kashyap-1811/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
