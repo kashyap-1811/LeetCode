@@ -2,85 +2,41 @@ class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
-        if(grid[0][0] == 1)
+        if (grid[0][0] != 0 || grid[n - 1][n - 1] != 0)
             return -1;
 
-        queue<pair<int, int>>q;
-        vector<int>vis(n*n, false);
+        queue<pair<int, int>> q;
+        vector<vector<bool>> vis(n, vector<bool>(n, false));
+        vector<int> dx = {-1, -1, -1, 0, 1, 1, 1, 0};
+        vector<int> dy = {-1, 0, 1, 1, 1, 0, -1, -1};
+
         q.push({0, 0});
+        vis[0][0] = true;
         int path = 1;
-        q.push({-1, -1});
-        int lvl = 0;
 
-        while(!q.empty()){
-            auto [i, j] = q.front();
-            q.pop();
+        while (!q.empty()) {
+            int size = q.size();
 
-            cout<<i<<" "<<j<<endl;
+            for (int s = 0; s < size; s++) {
+                auto [x, y] = q.front();
+                q.pop();
 
-            if(i==-1 && j==-1){
-                path++;
-                q.push({-1, -1});
-                lvl++;
+                if (x == n - 1 && y == n - 1)
+                    return path;
 
-                if(lvl == n*n)
-                    return -1;
-                continue;
+                for (int d = 0; d < 8; d++) {
+                    int nx = x + dx[d];
+                    int ny = y + dy[d];
+
+                    if (nx >= 0 && ny >= 0 && nx < n && ny < n &&
+                        !vis[nx][ny] && grid[nx][ny] == 0) {
+                        vis[nx][ny] = true;
+                        q.push({nx, ny});
+                    }
+                }
             }
 
-            vis[i*n + j] = true;
-
-            if(i==n-1 && j==n-1)
-                return path;
-
-            //check all eight directions
-            //up
-            if(i-1>=0 && !vis[(i-1)*n + (j)] && grid[i-1][j]==0){
-                q.push({i-1, j});
-                vis[(i-1)*n + (j)] = true;
-            }
-
-            //down
-            if(i+1<n && !vis[(i+1)*n + (j)] && grid[i+1][j]==0){
-                q.push({i+1, j});
-                vis[(i+1)*n + (j)] = true;
-            }
-
-            //left
-            if(j-1>=0 && !vis[(i)*n + (j-1)] && grid[i][j-1]==0){
-                q.push({i, j-1});
-                vis[(i)*n + (j-1)] = true;
-            }
-
-            //right
-            if(j+1<n && !vis[(i)*n + (j+1)] && grid[i][j+1]==0){
-                q.push({i, j+1});
-                vis[(i)*n + (j+1)] = true;
-            }
-
-            //up-left
-            if(i-1>=0 && j-1>=0 && !vis[(i-1)*n + (j-1)] && grid[i-1][j-1]==0){
-                q.push({i-1, j-1});
-                vis[(i-1)*n + (j-1)] = true;
-            }
-
-            //up-right
-            if(i-1>=0 && j+1<n && !vis[(i-1)*n + (j+1)] && grid[i-1][j+1]==0){
-                q.push({i-1, j+1});
-                vis[(i-1)*n + (j+1)] = true;
-            }
-
-            //down-left
-            if(i+1<n && j-1>=0 && !vis[(i+1)*n + (j-1)] && grid[i+1][j-1]==0){
-                q.push({i+1, j-1});
-                vis[(i+1)*n + (j-1)] = true;
-            }
-
-            //down-right
-            if(i+1<n && j+1<n && !vis[(i+1)*n + (j+1)] && grid[i+1][j+1]==0){
-                q.push({i+1, j+1});
-                vis[(i+1)*n + (j+1)] = true;
-            }
+            path++;
         }
 
         return -1;
