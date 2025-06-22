@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/kashyap-1811/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/kashyap-1811/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/kashyap-1811/LeetCode/tree/master/0056-merge-intervals) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kashyap-1811/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/kashyap-1811/LeetCode/tree/master/0056-merge-intervals) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kashyap-1811/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/kashyap-1811/LeetCode/tree/master/0031-next-permutation) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kashyap-1811/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
