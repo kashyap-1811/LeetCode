@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kashyap-1811/LeetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/kashyap-1811/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/kashyap-1811/LeetCode/tree/master/0463-island-perimeter) |
+| [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/kashyap-1811/LeetCode/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-1811/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0062-unique-paths) |
+| [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kashyap-1811/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -335,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
