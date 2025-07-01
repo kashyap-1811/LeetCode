@@ -38,7 +38,6 @@ public:
 
         int ans = 0;
         for(int i=0; i<n; i++){
-            cout<<left[i]<<" "<<right[i]<<endl;
             int width = right[i] - left[i] - 1;
             ans = max(ans, heights[i] * width);
         }
