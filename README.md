@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
+| [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1073-number-of-enclaves](https://github.com/kashyap-1811/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0062-unique-paths) |
 | [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kashyap-1811/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kashyap-1811/LeetCode/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
+| [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1073-number-of-enclaves](https://github.com/kashyap-1811/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -365,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Geometry
+|  |
+| ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
