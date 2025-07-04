@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kashyap-1811/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/kashyap-1811/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kashyap-1811/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kashyap-1811/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kashyap-1811/LeetCode/tree/master/0056-merge-intervals) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kashyap-1811/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kashyap-1811/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/kashyap-1811/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search
 |  |
