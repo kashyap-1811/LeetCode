@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/kashyap-1811/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/kashyap-1811/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kashyap-1811/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kashyap-1811/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kashyap-1811/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
