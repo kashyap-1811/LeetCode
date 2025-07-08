@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kashyap-1811/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kashyap-1811/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/kashyap-1811/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/kashyap-1811/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/kashyap-1811/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kashyap-1811/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/kashyap-1811/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kashyap-1811/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Union Find
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kashyap-1811/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kashyap-1811/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/kashyap-1811/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Shortest Path
 |  |
