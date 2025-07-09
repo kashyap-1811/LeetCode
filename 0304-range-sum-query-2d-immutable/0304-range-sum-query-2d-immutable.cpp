@@ -44,7 +44,7 @@ public:
 
         if(row1 > 0 && col1 > 0){
             sum += down[row1 - 1][col1 - 1];
-            cout << down[row1 - 1][col1 - 1] << endl;
+            // cout << down[row1 - 1][col1 - 1] << endl;
         }
 
         return sum;
