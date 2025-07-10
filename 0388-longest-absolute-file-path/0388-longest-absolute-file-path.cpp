@@ -2,42 +2,45 @@ class Solution {
 public:
     int lengthLongestPath(string input) {
         stack<pair<int, int>> s;  // {cumulative_length, depth}
-        int maxLen = 0, i = 0;
+        int len = 0, i = 0;
 
         while (i < input.size()) {
-            int depth = 0;
+            int tabs = 0;
 
-            // Count tabs
-            while (i < input.size() && input[i] == '\n') i++;
+            // Skip '\n'
+            while (i < input.size() && input[i] == '\n')
+                i++;
+
+            // Count '\t' to determine depth
             while (i < input.size() && input[i] == '\t') {
-                depth++;
+                tabs++;
                 i++;
             }
 
-            // Read current word
-            string name = "";
+            // Read the current name (file or folder)
+            string word = "";
             while (i < input.size() && input[i] != '\n') {
-                name += input[i];
+                word += input[i];
                 i++;
             }
 
-            bool isFile = name.find('.') != string::npos;
-            int nameLen = name.length() + 1; // +1 for '/'
+            int wordSize = word.size() + 1; // +1 for '/' in path
+            bool isFile = word.find('.') != string::npos;
 
-            // Remove deeper/equal directories from stack
-            while (!s.empty() && s.top().second >= depth)
+            // Remove entries from stack deeper or equal to current depth
+            while (!s.empty() && s.top().second >= tabs)
                 s.pop();
 
-            int totalLen = nameLen;
+            int currLen = wordSize;
             if (!s.empty())
-                totalLen += s.top().first;
+                currLen += s.top().first;
 
             if (isFile)
-                maxLen = max(maxLen, totalLen - 1);  // -1 to remove last '/'
+                len = max(len, currLen - 1); // -1 to remove last '/'
             else
-                s.push({totalLen, depth});
+                s.push({currLen, tabs});
         }
 
-        return maxLen;
+        return len;
     }
 };
