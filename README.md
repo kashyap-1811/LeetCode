@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
+| [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kashyap-1811/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
+| [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-1811/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/kashyap-1811/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
+| [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kashyap-1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kashyap-1811/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kashyap-1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
