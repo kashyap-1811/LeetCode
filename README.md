@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kashyap-1811/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0052-n-queens-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/kashyap-1811/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search
 |  |
