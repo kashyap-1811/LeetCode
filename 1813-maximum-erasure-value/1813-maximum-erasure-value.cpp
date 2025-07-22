@@ -7,7 +7,7 @@ public:
             prefix[i] += prefix[i-1];
 
         int maxSum = 0, lastIdx = -1;
-        map<int, int>m;
+        unordered_map<int, int>m;
 
         for(int i=0; i<nums.size(); i++){
             if(m.count(nums[i]) && lastIdx<m[nums[i]])
