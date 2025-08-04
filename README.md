@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
+| [0807-custom-sort-string](https://github.com/kashyap-1811/LeetCode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-1811/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/kashyap-1811/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
+| [0807-custom-sort-string](https://github.com/kashyap-1811/LeetCode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/kashyap-1811/LeetCode/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
+| [0807-custom-sort-string](https://github.com/kashyap-1811/LeetCode/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kashyap-1811/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/kashyap-1811/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kashyap-1811/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
