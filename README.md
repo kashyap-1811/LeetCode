@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kashyap-1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/kashyap-1811/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/kashyap-1811/LeetCode/tree/master/2035-count-sub-islands) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/kashyap-1811/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kashyap-1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/kashyap-1811/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kashyap-1811/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/kashyap-1811/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
