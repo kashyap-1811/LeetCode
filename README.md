@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/kashyap-1811/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0508-most-frequent-subtree-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kashyap-1811/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kashyap-1811/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/kashyap-1811/LeetCode/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0388-longest-absolute-file-path](https://github.com/kashyap-1811/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kashyap-1811/LeetCode/tree/master/0443-string-compression) |
