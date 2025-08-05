@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/kashyap-1811/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/kashyap-1811/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Bucket Sort
 |  |
