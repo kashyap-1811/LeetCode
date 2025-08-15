@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-decode-the-slanted-ciphertext](https://github.com/kashyap-1811/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kashyap-1811/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/kashyap-1811/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kashyap-1811/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/kashyap-1811/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/kashyap-1811/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kashyap-1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kashyap-1811/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
