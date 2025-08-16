@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/kashyap-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/kashyap-1811/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kashyap-1811/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kashyap-1811/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/kashyap-1811/LeetCode/tree/master/2035-count-sub-islands) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kashyap-1811/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/kashyap-1811/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kashyap-1811/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/kashyap-1811/LeetCode/tree/master/2035-count-sub-islands) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kashyap-1811/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kashyap-1811/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
