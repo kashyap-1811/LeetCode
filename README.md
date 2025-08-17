@@ -624,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kashyap-1811/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
