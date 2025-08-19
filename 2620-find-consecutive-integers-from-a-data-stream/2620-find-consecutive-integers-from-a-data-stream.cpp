@@ -1,24 +1,24 @@
 class DataStream {
 public:
-    stack<int> s;
+    int count;
     int value;
     int k;
 
     DataStream(int value, int k) {
         this->value = value;
-        this->k = k;    
+        this->k = k; 
+        this->count = 0;   
     }
     
     bool consec(int num) {
         if(num != value){
-            // clear by reassigning
-            s = stack<int>();
+            count = 0;
             return false;
         }
 
-        s.push(num);
+        count++;
 
-        return s.size() < k ? false : true;
+        return count < k ? false : true;
     }
 };
 
