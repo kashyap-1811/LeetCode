@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/kashyap-1811/LeetCode/tree/master/2169-simple-bank-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kashyap-1811/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [2169-simple-bank-system](https://github.com/kashyap-1811/LeetCode/tree/master/2169-simple-bank-system) |
 | [2352-design-an-atm-machine](https://github.com/kashyap-1811/LeetCode/tree/master/2352-design-an-atm-machine) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Tree
 |  |
 | ------- |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kashyap-1811/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashyap-1811/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/kashyap-1811/LeetCode/tree/master/0649-dota2-senate) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Interactive
 |  |
 | ------- |
@@ -657,4 +661,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/kashyap-1811/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/kashyap-1811/LeetCode/tree/master/0178-rank-scores) |
 | [0196-delete-duplicate-emails](https://github.com/kashyap-1811/LeetCode/tree/master/0196-delete-duplicate-emails) |
+## Data Stream
+|  |
+| ------- |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
