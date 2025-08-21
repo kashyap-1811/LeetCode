@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/kashyap-1811/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/kashyap-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2169-simple-bank-system](https://github.com/kashyap-1811/LeetCode/tree/master/2169-simple-bank-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kashyap-1811/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/kashyap-1811/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kashyap-1811/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/kashyap-1811/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
