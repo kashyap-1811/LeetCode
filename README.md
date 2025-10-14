@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/kashyap-1811/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0735-asteroid-collision](https://github.com/kashyap-1811/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kashyap-1811/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/kashyap-1811/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kashyap-1811/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kashyap-1811/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kashyap-1811/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/kashyap-1811/LeetCode/tree/master/0937-online-stock-span) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Combinatorics
 |  |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kashyap-1811/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0937-online-stock-span](https://github.com/kashyap-1811/LeetCode/tree/master/0937-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/kashyap-1811/LeetCode/tree/master/2169-simple-bank-system) |
 | [2352-design-an-atm-machine](https://github.com/kashyap-1811/LeetCode/tree/master/2352-design-an-atm-machine) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -696,5 +699,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/kashyap-1811/LeetCode/tree/master/0937-online-stock-span) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
