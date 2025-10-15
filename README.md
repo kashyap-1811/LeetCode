@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0943-sum-of-subarray-minimums](https://github.com/kashyap-1811/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/kashyap-1811/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1073-number-of-enclaves](https://github.com/kashyap-1811/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/kashyap-1811/LeetCode/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
