@@ -11,44 +11,38 @@ public:
 
 class Solution {
 public:
-    Node* recurse(Node* prev, Node* curr, Node* succ) {
-        curr->prev = prev;
+    Node* recurse(Node *head){
+        Node *prev = nullptr;
+        Node *curr = head;
+        Node *succ = head->next;
 
-        while (succ != nullptr) {
-            if (curr->child == nullptr) {
-                prev = curr;
-                curr = succ;
-                succ = succ->next;
-            } else {
+        while(curr){
+            if(curr->child){
                 curr->next = curr->child;
-                Node* temp = curr->child;
+                curr->child->prev = curr;
+                Node *last = recurse(curr->child);
                 curr->child = nullptr;
-                curr = recurse(curr, temp, temp->next);
-                curr->next = succ;
-                succ->prev = curr;
+                last->next = succ;
+                if(succ)
+                    succ->prev = last;
             }
+
+            prev = curr;
+            curr = succ;
+            if(succ)
+                succ = succ->next;
         }
 
-        if (curr->child != nullptr) {
-            curr->next = curr->child;
-            Node* temp = curr->child;
-            curr->child = nullptr;
-            curr = recurse(curr, temp, temp->next);
-            curr->next = succ;
-        }
-
-        return curr;
+        while(prev->next != nullptr)
+            prev = prev->next;
+        return prev;
     }
 
     Node* flatten(Node* head) {
-        if (head == nullptr)
-            return nullptr;
+        if(head == nullptr) 
+            return head;
 
-        Node* prev = nullptr;
-        Node* curr = head;
-        Node* succ = head->next;
-
-        recurse(prev, curr, succ);
+        recurse(head);
 
         return head;
     }
