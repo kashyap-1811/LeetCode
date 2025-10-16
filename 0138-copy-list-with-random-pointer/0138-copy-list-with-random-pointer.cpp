@@ -18,40 +18,35 @@ class Solution {
 public:
     Node* copyRandomList(Node* head) {
         if(head == nullptr)
-            return nullptr;
-        map<int, Node*>m; //it stores <random_index, random_Pointer>
-        map<Node*, int>values; //to store the value that which Node address is at which address
+            return head;
         
+        map<Node*, Node*> m1;
+
         Node *new_head = new Node(head->val);
-        Node *curr = new_head;
         Node *temp = head->next;
-        int idx = 0;
+        Node *new_temp = new_head;
 
-        values[head] = idx;
-        m[idx] = new_head;
+        m1[head] = new_head;
 
-        while(temp != nullptr)
-        {
-            curr->next = new Node(temp->val);
-            values[temp] = ++idx;
+        while(temp != nullptr){
+            Node *new_node = new Node(temp->val);
+            new_temp->next = new_node;
+
+            m1[temp] = new_node;
+
             temp = temp->next;
-            curr = curr->next;
-            m[idx] = curr; //to store the Node* at next idx
+            new_temp = new_temp->next;
         }
 
+        new_temp = new_head;
         temp = head;
-        curr = new_head;
-        while(temp != nullptr)
-        {
-            if(temp->random == nullptr)
-                curr->random = nullptr;
-            else{
-                idx = values[temp->random];
-                curr->random = m[idx];
-            }
+        while(new_temp){
+            if(temp->random != nullptr){
+                new_temp->random = m1[temp->random];
+            } 
 
             temp = temp->next;
-            curr = curr->next;
+            new_temp = new_temp->next;
         }
 
         return new_head;
