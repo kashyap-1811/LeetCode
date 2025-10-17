@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kashyap-1811/LeetCode/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
+| [0860-design-circular-queue](https://github.com/kashyap-1811/LeetCode/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kashyap-1811/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/kashyap-1811/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kashyap-1811/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0860-design-circular-queue](https://github.com/kashyap-1811/LeetCode/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kashyap-1811/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0860-design-circular-queue](https://github.com/kashyap-1811/LeetCode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/kashyap-1811/LeetCode/tree/master/0937-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/kashyap-1811/LeetCode/tree/master/2169-simple-bank-system) |
 | [2352-design-an-atm-machine](https://github.com/kashyap-1811/LeetCode/tree/master/2352-design-an-atm-machine) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kashyap-1811/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashyap-1811/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/kashyap-1811/LeetCode/tree/master/0649-dota2-senate) |
+| [0860-design-circular-queue](https://github.com/kashyap-1811/LeetCode/tree/master/0860-design-circular-queue) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Interactive
 |  |
