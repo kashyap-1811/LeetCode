@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kashyap-1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-pizza-with-3n-slices](https://github.com/kashyap-1811/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kashyap-1811/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kashyap-1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/kashyap-1811/LeetCode/tree/master/1752-arithmetic-subarrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-1811/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/kashyap-1811/LeetCode/tree/master/1752-arithmetic-subarrays) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kashyap-1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kashyap-1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/kashyap-1811/LeetCode/tree/master/1752-arithmetic-subarrays) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kashyap-1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-pizza-with-3n-slices](https://github.com/kashyap-1811/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/kashyap-1811/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
