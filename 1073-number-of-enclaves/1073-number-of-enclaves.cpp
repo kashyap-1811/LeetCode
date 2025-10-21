@@ -1,54 +1,50 @@
 class Solution {
 public:
-    void mark(vector<vector<int>>& grid, vector<vector<bool>>& land, int& m, int& n, int i, int j, char ch){
+    void dfs(int i, int j, int &m, int &n, vector<vector<int>>& grid, vector<vector<bool>>& land){
         land[i][j] = true;
 
-        if(ch!='r' && i-1>=0 && grid[i-1][j]==1 && !land[i-1][j])
-            mark(grid, land, m, n, i-1, j, 'l');
-        
-        if(ch!='l' && i+1<m && grid[i+1][j]==1 && !land[i+1][j])
-            mark(grid, land, m, n, i+1, j, 'r');
+        vector<int> dx = {-1, 1, 0, 0};
+        vector<int> dy = {0, 0, 1, -1};
 
-        if(ch!='d' && j-1>=0 && grid[i][j-1]==1 && !land[i][j-1])
-            mark(grid, land, m, n, i, j-1, 'u');
+        for(int k=0; k<4; k++){
+            int x = i + dx[k];
+            int y = j + dy[k];
 
-        if(ch!='u' && j+1<n && grid[i][j+1]==1 && !land[i][j+1])
-            mark(grid, land, m, n, i, j+1, 'd');
+            if(x>=0 && y>=0 && x<m && y<n && grid[x][y]==1 && !land[x][y])
+                dfs(x, y, m, n, grid, land);
+        }
     }
 
     int numEnclaves(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
+        vector<vector<bool>> land(m, vector<bool>(n, false));
 
-        vector<vector<bool>>land(m, vector<bool>(n, false));
-
-        // 1st row
+        // check 1st row
         for(int j=0; j<n; j++)
-            if(grid[0][j]==1 && !land[0][j])
-                mark(grid, land, m, n, 0, j, 'n');
+            if(grid[0][j] == 1)
+                dfs(0, j, m, n, grid, land);
 
-        // last row
+        // check last row
         for(int j=0; j<n; j++)
-            if(grid[m-1][j]==1 && !land[m-1][j])
-                mark(grid, land, m, n, m-1, j, 'n');
+            if(grid[m-1][j] == 1)
+                dfs(m-1, j, m, n, grid, land);
 
-        // 1st col
+        // check 1st col
         for(int i=0; i<m; i++)
-            if(grid[i][0]==1 && !land[i][0])
-                mark(grid, land, m, n, i, 0, 'n');
+            if(grid[i][0] == 1)
+                dfs(i, 0, m, n, grid, land);
 
-        // last col
+        // check last col
         for(int i=0; i<m; i++)
-            if(grid[i][n-1]==1 && !land[i][n-1])
-                mark(grid, land, m, n, i, n-1, 'n');
+            if(grid[i][n-1] == 1)
+                dfs(i, n-1, m, n, grid, land);
 
         int count = 0;
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(grid[i][j]==1 && !land[i][j])
+        for(int i=0; i<m; i++)
+            for(int j=0; j<n; j++)
+                if(grid[i][j] == 1 && !land[i][j])
                     count++;
-            }
-        }
 
         return count;
     }
