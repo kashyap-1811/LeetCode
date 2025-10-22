@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/kashyap-1811/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0801-is-graph-bipartite](https://github.com/kashyap-1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/kashyap-1811/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/kashyap-1811/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/kashyap-1811/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-1811/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/kashyap-1811/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/kashyap-1811/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/kashyap-1811/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0820-find-eventual-safe-states](https://github.com/kashyap-1811/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/kashyap-1811/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kashyap-1811/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kashyap-1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/kashyap-1811/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/kashyap-1811/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/kashyap-1811/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-1811/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kashyap-1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/kashyap-1811/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/kashyap-1811/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/kashyap-1811/LeetCode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/kashyap-1811/LeetCode/tree/master/1073-number-of-enclaves) |
