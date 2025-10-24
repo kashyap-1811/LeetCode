@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2294-minimum-time-to-complete-trips](https://github.com/kashyap-1811/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2352-design-an-atm-machine](https://github.com/kashyap-1811/LeetCode/tree/master/2352-design-an-atm-machine) |
+| [2472-build-a-matrix-with-conditions](https://github.com/kashyap-1811/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kashyap-1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kashyap-1811/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/kashyap-1811/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kashyap-1811/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/kashyap-1811/LeetCode/tree/master/2035-count-sub-islands) |
+| [2472-build-a-matrix-with-conditions](https://github.com/kashyap-1811/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kashyap-1811/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kashyap-1811/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kashyap-1811/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kashyap-1811/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kashyap-1811/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/kashyap-1811/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2472-build-a-matrix-with-conditions](https://github.com/kashyap-1811/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/kashyap-1811/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kashyap-1811/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2472-build-a-matrix-with-conditions](https://github.com/kashyap-1811/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Memoization
 |  |
 | ------- |
