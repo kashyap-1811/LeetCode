@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kashyap-1811/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kashyap-1811/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2198-process-restricted-friend-requests](https://github.com/kashyap-1811/LeetCode/tree/master/2198-process-restricted-friend-requests) |
 | [2206-detonate-the-maximum-bombs](https://github.com/kashyap-1811/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kashyap-1811/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/kashyap-1811/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kashyap-1811/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2198-process-restricted-friend-requests](https://github.com/kashyap-1811/LeetCode/tree/master/2198-process-restricted-friend-requests) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
