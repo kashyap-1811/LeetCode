@@ -1,44 +1,40 @@
 class Solution {
 public:
-    vector<int> par;
+    void DFS(int u, vector<vector<int>> &adj, vector<bool> &vis, int &edges, int &vertices){
+        vis[u] = true;
+        edges += adj[u].size();
+        vertices++;
 
-    int find(int x){
-        if(x == par[x])
-            return x;
-        
-        return par[x] = find(par[x]);
+        for(int v : adj[u])
+            if(!vis[v])
+                DFS(v, adj, vis, edges, vertices);
     }
 
     int makeConnected(int n, vector<vector<int>>& connections) {
-        par.resize(n);
-        for(int i=0; i<n; i++)
-            par[i] = i;
-        
-        int extras = 0;
-        for(int i=0; i<connections.size(); i++){
-            int u = connections[i][0];
-            int v = connections[i][1];
-
-            int parU = find(u);
-            int parV = find(v);
-
-            if(parU == parV)
-                extras++;
-            else
-                par[parU] = parV;
+        vector<vector<int>> adj(n, vector<int>());
+        for(auto e : connections){
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
         }
 
-        int groups = -1;
-        unordered_set<int> s;
-        for(int i=0; i<n; i++){
-            int parI = find(i);
+        int noOfExtraEdges = 0;
+        int differentComponenets = -1; // default one component is there
 
-            if(!s.count(parI)){
-                groups++;
-                s.insert({parI});
+        vector<bool> vis(n, false);
+        for(int i=0; i<n; i++){
+            if(!vis[i]){
+                int edges = 0;
+                int vertices = 0;
+                DFS(i, adj, vis, edges, vertices);
+
+                edges /= 2;
+                edges -= (vertices - 1);
+                if(edges > 0)
+                    noOfExtraEdges += edges;
+                differentComponenets++;
             }
         }
 
-        return groups > extras ? -1 : groups;
+        return noOfExtraEdges >= differentComponenets ? differentComponenets : -1;
     }
 };
