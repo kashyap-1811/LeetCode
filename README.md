@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kashyap-1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/kashyap-1811/LeetCode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/kashyap-1811/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kashyap-1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kashyap-1811/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Stack
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/kashyap-1811/LeetCode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kashyap-1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/kashyap-1811/LeetCode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
 | ------- |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/kashyap-1811/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
