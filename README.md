@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/kashyap-1811/LeetCode/tree/master/0403-frog-jump) |
 | [0419-battleships-in-a-board](https://github.com/kashyap-1811/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/kashyap-1811/LeetCode/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/kashyap-1811/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kashyap-1811/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/kashyap-1811/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kashyap-1811/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/kashyap-1811/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/kashyap-1811/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0649-dota2-senate](https://github.com/kashyap-1811/LeetCode/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/kashyap-1811/LeetCode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/kashyap-1811/LeetCode/tree/master/0120-triangle) |
 | [0403-frog-jump](https://github.com/kashyap-1811/LeetCode/tree/master/0403-frog-jump) |
+| [0474-ones-and-zeroes](https://github.com/kashyap-1811/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
