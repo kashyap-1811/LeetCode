@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kashyap-1811/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/kashyap-1811/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0650-2-keys-keyboard](https://github.com/kashyap-1811/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0738-monotone-increasing-digits](https://github.com/kashyap-1811/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1236-n-th-tribonacci-number](https://github.com/kashyap-1811/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/kashyap-1811/LeetCode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/kashyap-1811/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0542-01-matrix) |
+| [0650-2-keys-keyboard](https://github.com/kashyap-1811/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/kashyap-1811/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
