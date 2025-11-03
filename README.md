@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kashyap-1811/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kashyap-1811/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/kashyap-1811/LeetCode/tree/master/2035-count-sub-islands) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/kashyap-1811/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashyap-1811/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/kashyap-1811/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/kashyap-1811/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kashyap-1811/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/kashyap-1811/LeetCode/tree/master/2035-count-sub-islands) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/kashyap-1811/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kashyap-1811/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kashyap-1811/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kashyap-1811/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kashyap-1811/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/kashyap-1811/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kashyap-1811/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/kashyap-1811/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kashyap-1811/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
