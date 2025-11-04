@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyap-1811/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/kashyap-1811/LeetCode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyap-1811/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kashyap-1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyap-1811/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyap-1811/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kashyap-1811/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kashyap-1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyap-1811/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Trie
 |  |
 | ------- |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/kashyap-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kashyap-1811/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2478-longest-nice-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyap-1811/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
