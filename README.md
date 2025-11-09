@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/kashyap-1811/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kashyap-1811/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kashyap-1811/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kashyap-1811/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kashyap-1811/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/kashyap-1811/LeetCode/tree/master/3321-type-of-triangle) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-decode-the-slanted-ciphertext](https://github.com/kashyap-1811/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kashyap-1811/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kashyap-1811/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kashyap-1811/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kashyap-1811/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
