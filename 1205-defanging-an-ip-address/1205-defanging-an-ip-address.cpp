@@ -5,10 +5,9 @@ public:
 
         for(char &c : address){
             if(c == '.')
-                ans += "[";
-            ans += c;
-            if(c == '.')
-                ans += "]";
+                ans += "[.]";
+            else
+                ans += c;
         }
 
         return ans;
