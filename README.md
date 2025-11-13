@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kashyap-1811/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kashyap-1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kashyap-1811/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-pizza-with-3n-slices](https://github.com/kashyap-1811/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kashyap-1811/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-1811/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kashyap-1811/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kashyap-1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kashyap-1811/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kashyap-1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kashyap-1811/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
 | ------- |
