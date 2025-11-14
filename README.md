@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kashyap-1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kashyap-1811/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kashyap-1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/kashyap-1811/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kashyap-1811/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kashyap-1811/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kashyap-1811/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kashyap-1811/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2625-increment-submatrices-by-one](https://github.com/kashyap-1811/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kashyap-1811/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kashyap-1811/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kashyap-1811/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kashyap-1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/kashyap-1811/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Geometry
 |  |
 | ------- |
