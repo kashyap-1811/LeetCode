@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/kashyap-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/kashyap-1811/LeetCode/tree/master/1830-count-good-meals) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2169-simple-bank-system](https://github.com/kashyap-1811/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kashyap-1811/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kashyap-1811/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/kashyap-1811/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kashyap-1811/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashyap-1811/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/kashyap-1811/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/kashyap-1811/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1022-unique-paths-iii](https://github.com/kashyap-1811/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Bucket Sort
 |  |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kashyap-1811/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/kashyap-1811/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kashyap-1811/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kashyap-1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
