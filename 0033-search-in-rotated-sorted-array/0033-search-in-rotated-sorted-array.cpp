@@ -10,12 +10,12 @@ public:
 
             if(nums[mid] == target) return mid;
 
-            if(nums[start]<=nums[mid]) //left sorted
+            if(nums[start]<=nums[mid])  //left sorted
             {    
                 if(nums[start]<=target && nums[mid]>=target)
                     end = mid-1;
                 else start = mid+1;
-            }else{//right sorted
+            }else{                      //right sorted
                 if(nums[mid]<=target && nums[end]>=target)
                     start = mid+1;
                 else
