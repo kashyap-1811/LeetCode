@@ -12,6 +12,8 @@ public:
                 st = mid + 1;
         }
 
+        // No of times array rotated
+        // cout << st;
         return nums[st];
     }
 };
