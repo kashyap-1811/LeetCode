@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kashyap-1811/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kashyap-1811/LeetCode/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/kashyap-1811/LeetCode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/kashyap-1811/LeetCode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashyap-1811/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashyap-1811/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/kashyap-1811/LeetCode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/kashyap-1811/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
