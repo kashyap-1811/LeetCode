@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyap-1811/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/kashyap-1811/LeetCode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
+| [3531-count-covered-buildings](https://github.com/kashyap-1811/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kashyap-1811/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyap-1811/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyap-1811/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/kashyap-1811/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyap-1811/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kashyap-1811/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/kashyap-1811/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/kashyap-1811/LeetCode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
+| [3531-count-covered-buildings](https://github.com/kashyap-1811/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
