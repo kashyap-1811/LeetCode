@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/kashyap-1811/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/kashyap-1811/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/kashyap-1811/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0424-longest-repeating-character-replacement](https://github.com/kashyap-1811/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kashyap-1811/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/kashyap-1811/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/kashyap-1811/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
