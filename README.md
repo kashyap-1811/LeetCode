@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kashyap-1811/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/kashyap-1811/LeetCode/tree/master/2035-count-sub-islands) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/kashyap-1811/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kashyap-1811/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashyap-1811/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/kashyap-1811/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/kashyap-1811/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1925-count-square-sum-triples](https://github.com/kashyap-1811/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kashyap-1811/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kashyap-1811/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/kashyap-1811/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kashyap-1811/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/kashyap-1811/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kashyap-1811/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kashyap-1811/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kashyap-1811/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/kashyap-1811/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
