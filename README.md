@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kashyap-1811/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1325-path-with-maximum-probability](https://github.com/kashyap-1811/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kashyap-1811/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/kashyap-1811/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kashyap-1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kashyap-1811/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/kashyap-1811/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/kashyap-1811/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kashyap-1811/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-pizza-with-3n-slices](https://github.com/kashyap-1811/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
