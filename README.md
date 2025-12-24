@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kashyap-1811/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kashyap-1811/LeetCode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/kashyap-1811/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/kashyap-1811/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/kashyap-1811/LeetCode/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/kashyap-1811/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1028-interval-list-intersections](https://github.com/kashyap-1811/LeetCode/tree/master/1028-interval-list-intersections) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/kashyap-1811/LeetCode/tree/master/0621-task-scheduler) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/kashyap-1811/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashyap-1811/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0432-all-oone-data-structure](https://github.com/kashyap-1811/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -1001,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/kashyap-1811/LeetCode/tree/master/0937-online-stock-span) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Queue
