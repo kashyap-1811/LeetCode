@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/kashyap-1811/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2352-design-an-atm-machine](https://github.com/kashyap-1811/LeetCode/tree/master/2352-design-an-atm-machine) |
+| [2402-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kashyap-1811/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kashyap-1811/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/kashyap-1811/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2402-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/kashyap-1811/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/kashyap-1811/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2402-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kashyap-1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kashyap-1811/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kashyap-1811/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kashyap-1811/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kashyap-1811/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/kashyap-1811/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/kashyap-1811/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/kashyap-1811/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kashyap-1811/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
