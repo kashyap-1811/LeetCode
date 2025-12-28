@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kashyap-1811/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1325-path-with-maximum-probability](https://github.com/kashyap-1811/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kashyap-1811/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kashyap-1811/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kashyap-1811/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/kashyap-1811/LeetCode/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/kashyap-1811/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/kashyap-1811/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kashyap-1811/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/kashyap-1811/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kashyap-1811/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/kashyap-1811/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashyap-1811/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kashyap-1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-1811/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
