@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kashyap-1811/LeetCode/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/kashyap-1811/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0807-custom-sort-string](https://github.com/kashyap-1811/LeetCode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/kashyap-1811/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/kashyap-1811/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0807-custom-sort-string](https://github.com/kashyap-1811/LeetCode/tree/master/0807-custom-sort-string) |
 | [0831-masking-personal-information](https://github.com/kashyap-1811/LeetCode/tree/master/0831-masking-personal-information) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0756-pyramid-transition-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0813-all-paths-from-source-to-target](https://github.com/kashyap-1811/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/kashyap-1811/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kashyap-1811/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/kashyap-1811/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0756-pyramid-transition-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kashyap-1811/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/kashyap-1811/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
