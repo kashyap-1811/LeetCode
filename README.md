@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/kashyap-1811/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-1811/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0993-cousins-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/kashyap-1811/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/kashyap-1811/LeetCode/tree/master/1104-coloring-a-border) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/kashyap-1811/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/kashyap-1811/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/kashyap-1811/LeetCode/tree/master/0922-possible-bipartition) |
+| [0993-cousins-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/kashyap-1811/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/kashyap-1811/LeetCode/tree/master/1104-coloring-a-border) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/kashyap-1811/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kashyap-1811/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0993-cousins-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/kashyap-1811/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -995,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/kashyap-1811/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
