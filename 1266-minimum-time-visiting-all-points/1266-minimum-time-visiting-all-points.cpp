@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int minTimeToVisitAllPoints(vector<vector<int>>& points) {
+        int cost = 0;
+
+        for(int i=1; i<points.size(); i++){
+            int distX = abs(points[i][0] - points[i-1][0]);
+            int distY = abs(points[i][1] - points[i-1][1]);
+            cost += min(distX, distY);
+            cost += (max(distX, distY) - min(distX, distY));
+        }
+
+        return cost;
+    }
+};
