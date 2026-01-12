@@ -22,7 +22,7 @@ public:
 
         int rightSibling = root->right ? root->right->val : 0;
         int leftSibling = root->left ? root->left->val : 0;
-        
+
         traverse(root->left, lvl + 1, rightSibling);
         traverse(root->right, lvl + 1, leftSibling);
     }
@@ -50,8 +50,6 @@ public:
             }
         } 
 
-        for(int i : lvlSum)
-            cout << i << " ";
         traverse(root, 0, 0);
         return root;
     }
