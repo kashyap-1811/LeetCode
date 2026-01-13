@@ -10,22 +10,21 @@
  * };
  */
 class Solution {
-public: 
-    int diameter(TreeNode* root, int& maX){ //pair stores <int->till max answer, int->deepest leaf>
-        if(!root) return 0;
+public:
+    int traverse(TreeNode *root, int &maxDist){
+        if(root == nullptr)
+            return 0;
+        
+        int left = traverse(root->left, maxDist);
+        int right = traverse(root->right, maxDist);
 
-        int left = diameter(root->left, maX);
-        int right = diameter(root->right, maX);
-
-        maX = max(maX, abs(left + right));
-
+        maxDist = max(maxDist, left + right);
         return max(left, right) + 1;
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        int maX = 0;
-        diameter(root, maX);
-
-        return maX;
+        int maxDist = 0;
+        traverse(root, maxDist);
+        return maxDist;
     }
 };
