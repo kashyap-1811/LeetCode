@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kashyap-1811/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kashyap-1811/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/kashyap-1811/LeetCode/tree/master/0326-power-of-three) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kashyap-1811/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/kashyap-1811/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kashyap-1811/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/kashyap-1811/LeetCode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/kashyap-1811/LeetCode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/kashyap-1811/LeetCode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kashyap-1811/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/kashyap-1811/LeetCode/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashyap-1811/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/kashyap-1811/LeetCode/tree/master/2169-simple-bank-system) |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kashyap-1811/LeetCode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/kashyap-1811/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0756-pyramid-transition-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
