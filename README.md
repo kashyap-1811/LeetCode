@@ -922,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/kashyap-1811/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0756-pyramid-transition-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/kashyap-1811/LeetCode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kashyap-1811/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/kashyap-1811/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
