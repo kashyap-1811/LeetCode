@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kashyap-1811/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/kashyap-1811/LeetCode/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/kashyap-1811/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kashyap-1811/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0720-longest-word-in-dictionary](https://github.com/kashyap-1811/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/kashyap-1811/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kashyap-1811/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/kashyap-1811/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kashyap-1811/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashyap-1811/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
