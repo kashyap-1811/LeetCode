@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/kashyap-1811/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kashyap-1811/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kashyap-1811/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/kashyap-1811/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
