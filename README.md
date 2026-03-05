@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/kashyap-1811/LeetCode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashyap-1811/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kashyap-1811/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kashyap-1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/kashyap-1811/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kashyap-1811/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kashyap-1811/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Stack
