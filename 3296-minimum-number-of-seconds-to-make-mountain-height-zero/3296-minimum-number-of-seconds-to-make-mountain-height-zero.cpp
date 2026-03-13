@@ -26,8 +26,10 @@ public:
     }
 
     long long minNumberOfSeconds(int mountainHeight, vector<int>& workerTimes) {
-        long long low = 1;
-        long long high = 5000050000000000;
+        int maxWorkerTimes =
+            *max_element(workerTimes.begin(), workerTimes.end());
+        long long low = 1, high = static_cast<long long>(maxWorkerTimes) *
+                             mountainHeight * (mountainHeight + 1) / 2;
         long long mid = low + (high - low) / 2;
         long long ans = 5000050000000000;
 
