@@ -10,7 +10,7 @@ public:
             double D = b * b - 4 * a * c;
 
             if (D < 0) {
-                cout << "No real root\n";
+                // cout << "No real root\n";
                 return 0;
             }
 
