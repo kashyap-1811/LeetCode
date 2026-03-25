@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kashyap-1811/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/kashyap-1811/LeetCode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3531-count-covered-buildings](https://github.com/kashyap-1811/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kashyap-1811/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kashyap-1811/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kashyap-1811/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kashyap-1811/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kashyap-1811/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Sorting
 |  |
 | ------- |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/kashyap-1811/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashyap-1811/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kashyap-1811/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kashyap-1811/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Heap (Priority Queue)
 |  |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/kashyap-1811/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kashyap-1811/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kashyap-1811/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kashyap-1811/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Geometry
 |  |
 | ------- |
