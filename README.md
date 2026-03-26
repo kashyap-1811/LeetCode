@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kashyap-1811/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/kashyap-1811/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kashyap-1811/LeetCode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/kashyap-1811/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/kashyap-1811/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/kashyap-1811/LeetCode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kashyap-1811/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
