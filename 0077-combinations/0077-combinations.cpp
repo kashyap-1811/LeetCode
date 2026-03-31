@@ -9,7 +9,7 @@ public:
             return;
         }
 
-        while (i <= n) {
+        while (i <= n-k+1) {
             temp.push_back(i);
             recurse(n, k-1, i+1);
             temp.pop_back();
