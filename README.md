@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kashyap-1811/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kashyap-1811/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0909-snakes-and-ladders](https://github.com/kashyap-1811/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0912-sort-an-array) |
 | [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0940-fruit-into-baskets](https://github.com/kashyap-1811/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
+| [0909-snakes-and-ladders](https://github.com/kashyap-1811/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/kashyap-1811/LeetCode/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/kashyap-1811/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/kashyap-1811/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kashyap-1811/LeetCode/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0909-snakes-and-ladders](https://github.com/kashyap-1811/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0922-possible-bipartition](https://github.com/kashyap-1811/LeetCode/tree/master/0922-possible-bipartition) |
 | [0993-cousins-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kashyap-1811/LeetCode/tree/master/0994-rotting-oranges) |
