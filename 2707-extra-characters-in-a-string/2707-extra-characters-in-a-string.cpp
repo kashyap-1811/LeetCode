@@ -5,7 +5,7 @@ public:
     int memo(int i, string s, vector<string> &dictionary) {
         if(i == s.size())
             return 0;
-        if(dp[i] != -1)
+        if(dp[i] != INT_MAX)
             return dp[i];
 
         // skip
@@ -25,7 +25,21 @@ public:
     }
 
     int minExtraChar(string s, vector<string>& dictionary) {
-        dp = vector<int>(s.size(), -1);
-        return memo(0, s, dictionary);
+        int n = s.size();
+        dp = vector<int>(n + 1, INT_MAX);
+        // return memo(0, s, dictionary);
+
+        dp[0] = 0;
+
+        for(int i=1; i<=n; i++) {
+            dp[i] = 1 + dp[i-1];
+            for(auto d : dictionary) {
+                int start = i - d.size();
+                if(start >= 0 && s.substr(start, d.size()) == d)
+                    dp[i] = min(dp[i], dp[start]);
+            }
+        }
+
+        return dp[n];
     }
 };
