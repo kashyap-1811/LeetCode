@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kashyap-1811/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/kashyap-1811/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/kashyap-1811/LeetCode/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kashyap-1811/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/kashyap-1811/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/kashyap-1811/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0983-minimum-cost-for-tickets](https://github.com/kashyap-1811/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/kashyap-1811/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/kashyap-1811/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/kashyap-1811/LeetCode/tree/master/1236-n-th-tribonacci-number) |
