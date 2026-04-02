@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kashyap-1811/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kashyap-1811/LeetCode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/kashyap-1811/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashyap-1811/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kashyap-1811/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/kashyap-1811/LeetCode/tree/master/0198-house-robber) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/kashyap-1811/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/kashyap-1811/LeetCode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/kashyap-1811/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kashyap-1811/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kashyap-1811/LeetCode/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/kashyap-1811/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/kashyap-1811/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kashyap-1811/LeetCode/tree/master/0224-basic-calculator) |
@@ -1059,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/kashyap-1811/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0919-projection-area-of-3d-shapes](https://github.com/kashyap-1811/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kashyap-1811/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/kashyap-1811/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
