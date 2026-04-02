@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kashyap-1811/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kashyap-1811/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [2707-extra-characters-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/kashyap-1811/LeetCode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2707-extra-characters-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/kashyap-1811/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kashyap-1811/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2707-extra-characters-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/kashyap-1811/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/kashyap-1811/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kashyap-1811/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kashyap-1811/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kashyap-1811/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2707-extra-characters-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/kashyap-1811/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kashyap-1811/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kashyap-1811/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -921,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/kashyap-1811/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/kashyap-1811/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kashyap-1811/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2707-extra-characters-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
