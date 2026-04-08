@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/kashyap-1811/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyap-1811/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kashyap-1811/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kashyap-1811/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kashyap-1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kashyap-1811/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/kashyap-1811/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kashyap-1811/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Shortest Path
 |  |
@@ -1105,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/kashyap-1811/LeetCode/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kashyap-1811/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
