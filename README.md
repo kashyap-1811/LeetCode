@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashyap-1811/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kashyap-1811/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kashyap-1811/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/kashyap-1811/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kashyap-1811/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2707-extra-characters-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2707-extra-characters-in-a-string) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kashyap-1811/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kashyap-1811/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
