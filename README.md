@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kashyap-1811/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kashyap-1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kashyap-1811/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kashyap-1811/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kashyap-1811/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3592-inverse-coin-change](https://github.com/kashyap-1811/LeetCode/tree/master/3592-inverse-coin-change) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Graph
 |  |
 | ------- |
