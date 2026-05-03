@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/kashyap-1811/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/kashyap-1811/LeetCode/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/kashyap-1811/LeetCode/tree/master/0807-custom-sort-string) |
 | [0831-masking-personal-information](https://github.com/kashyap-1811/LeetCode/tree/master/0831-masking-personal-information) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1250,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/kashyap-1811/LeetCode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/kashyap-1811/LeetCode/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/kashyap-1811/LeetCode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
