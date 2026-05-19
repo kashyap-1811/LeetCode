@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kashyap-1811/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/kashyap-1811/LeetCode/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/kashyap-1811/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kashyap-1811/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/kashyap-1811/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/kashyap-1811/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/kashyap-1811/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/kashyap-1811/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/kashyap-1811/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kashyap-1811/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/kashyap-1811/LeetCode/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
