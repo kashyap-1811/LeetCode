@@ -4,30 +4,41 @@ public:
         int n = nums.size();
         sort(nums.begin(), nums.end());
 
-        vector<vector<int>>ans;
+        vector<vector<int>> ans;
 
-        for(int i=0; i<n; i++){
-            if(i>0 && nums[i]==nums[i-1])
+        for (int i = 0; i < n - 2; i++) {
+            if(i > 0 && nums[i] == nums[i-1])
                 continue;
-            
-            int j = i+1;
-            int k = n-1;
 
-            while(j < k){
-                int currSum = nums[i] + nums[j] + nums[k];
+            int l = i + 1;
+            int r = n - 1;
 
-                if(currSum < 0)
-                    j++;
-                else if(currSum > 0)
-                    k--;
-                else{
-                    ans.push_back({nums[i], nums[j], nums[k]});
-                    j++; k--;
-                    while(j<k && nums[j]==nums[j-1])
-                        j++;
-                    while(k>j && nums[k]==nums[k+1])
-                        k--;
+            while(l < r) {
+                int sum = nums[i] + nums[l] + nums[r];
+                bool left = false, right = false;
+
+                if(sum == 0) {
+                    ans.push_back({nums[i], nums[l], nums[r]});
+                    left = true;
+                    right = true;
+                } else if(sum > 0) {
+                    right = true;
+                } else {
+                    left = true;
                 }
+
+                if(left) {
+                    l++;
+                    while(l < r && nums[l] == nums[l-1])
+                        l++;
+                }
+                
+                if(right) {
+                    r--;
+                    while(l < r && nums[r] == nums[r+1])
+                        r--;
+                }
+                
             }
         }
 
