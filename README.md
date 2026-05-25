@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/kashyap-1811/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1922-count-good-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/kashyap-1811/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kashyap-1811/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kashyap-1811/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kashyap-1811/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/kashyap-1811/LeetCode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/kashyap-1811/LeetCode/tree/master/0326-power-of-three) |
+| [1922-count-good-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
 | ------- |
