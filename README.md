@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/kashyap-1811/LeetCode/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/kashyap-1811/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0649-dota2-senate](https://github.com/kashyap-1811/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/kashyap-1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/kashyap-1811/LeetCode/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/kashyap-1811/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kashyap-1811/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0388-longest-absolute-file-path](https://github.com/kashyap-1811/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0496-next-greater-element-i](https://github.com/kashyap-1811/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/kashyap-1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/kashyap-1811/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kashyap-1811/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/kashyap-1811/LeetCode/tree/master/0937-online-stock-span) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kashyap-1811/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kashyap-1811/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/kashyap-1811/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/kashyap-1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/kashyap-1811/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0846-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/kashyap-1811/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/kashyap-1811/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/kashyap-1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/kashyap-1811/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
