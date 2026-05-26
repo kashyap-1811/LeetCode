@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kashyap-1811/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kashyap-1811/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kashyap-1811/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/kashyap-1811/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1732-find-the-highest-altitude](https://github.com/kashyap-1811/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/kashyap-1811/LeetCode/tree/master/1752-arithmetic-subarrays) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/kashyap-1811/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/kashyap-1811/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kashyap-1811/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/kashyap-1811/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2707-extra-characters-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kashyap-1811/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Game Theory
@@ -1126,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/kashyap-1811/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/kashyap-1811/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/kashyap-1811/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kashyap-1811/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
