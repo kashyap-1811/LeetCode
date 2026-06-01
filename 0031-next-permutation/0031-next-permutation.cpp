@@ -1,28 +1,30 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int i = nums.size()-1;
+        int n = nums.size();
+        int i = n - 1;
 
-        while(i>0 && nums[i]<=nums[i-1])
+        // find the position where previous element is greater
+        while (i > 0 && nums[i] <= nums[i-1])
             i--;
-
-        // cout<<i;
-
-        if(i > 0)
-        {
-            int min = nums[i];
+        
+        if(i > 0) {
+            // now we need to find minimum element which is > nums[i - 1]
+            int minElement = nums[i];
             int idx = i;
-            for(int j=i+1; j<nums.size(); j++){
-                if(nums[j]<min && nums[j]>nums[i-1])
-                {
-                    min = nums[j];
+
+            for (int j = i + 1; j < n; j++) {
+                if(nums[j] < minElement && nums[j] > nums[i-1]) {
+                    minElement = nums[i];
                     idx = j;
-                }    
+                }
             }
 
+            // swap that with nums[i-1], so till 0 to i - 1 idx nextpermutation is done
             swap(nums[i-1], nums[idx]);
         }
-        
-        sort(nums.begin()+i, nums.end());
+
+        // now just need to sort elements from i + 1 to n
+        sort(nums.begin() + i, nums.end());
     }
 };
