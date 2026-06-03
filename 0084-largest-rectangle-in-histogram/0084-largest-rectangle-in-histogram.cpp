@@ -5,7 +5,7 @@ public:
         vector<int>left(n, -1), right(n, n);
         stack<int>s;
 
-        //right smaller
+        // right smaller
         s.push(n-1);
         for(int i=n-2; i>=0; i--){
             while(!s.empty() && heights[s.top()]>=heights[i])
@@ -22,7 +22,7 @@ public:
         while(!s.empty())
             s.pop();
 
-        //left smaller
+        // left smaller
         s.push(0);
         for(int i=1; i<n; i++){
             while(!s.empty() && heights[s.top()]>=heights[i])
