@@ -31,16 +31,18 @@ private:
             arr[i] = temp[i - low];
         }
     }
+
     int countPairs(vector<int>& arr, int low, int mid, int high) {
         int cnt = 0;
         int right = mid + 1;
         for (int i = low; i <= mid; i++) {
-            while (right <= high && 1LL * arr[i] > 2 * (1LL) * arr[right])
+            while (right <= high && 1LL * arr[i] > 1LL * 2 * arr[right])
                 right++;
             cnt += (right - (mid + 1));
         }
         return cnt;
     }
+
     int mergeSort(vector<int>& arr, int low, int high) {
         int cnt = 0;
         if (low >= high)
