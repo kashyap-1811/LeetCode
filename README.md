@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kashyap-1811/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kashyap-1811/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kashyap-1811/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kashyap-1811/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/kashyap-1811/LeetCode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-inverse-coin-change](https://github.com/kashyap-1811/LeetCode/tree/master/3592-inverse-coin-change) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kashyap-1811/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph
 |  |
 | ------- |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashyap-1811/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kashyap-1811/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kashyap-1811/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kashyap-1811/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
