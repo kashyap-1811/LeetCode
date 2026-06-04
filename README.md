@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/kashyap-1811/LeetCode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/kashyap-1811/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kashyap-1811/LeetCode/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/kashyap-1811/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kashyap-1811/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kashyap-1811/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/kashyap-1811/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/kashyap-1811/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/0295-find-median-from-data-stream) |
