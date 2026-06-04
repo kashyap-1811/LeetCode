@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/kashyap-1811/LeetCode/tree/master/1871-jump-game-vii) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/kashyap-1811/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kashyap-1811/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/kashyap-1811/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kashyap-1811/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kashyap-1811/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kashyap-1811/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kashyap-1811/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kashyap-1811/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kashyap-1811/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2211-count-collisions-on-a-road](https://github.com/kashyap-1811/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kashyap-1811/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/kashyap-1811/LeetCode/tree/master/0735-asteroid-collision) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kashyap-1811/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashyap-1811/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/kashyap-1811/LeetCode/tree/master/2169-simple-bank-system) |
