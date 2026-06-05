@@ -1,49 +1,46 @@
 class Solution {
 public:
-    void merge(vector<int> &nums, int l, int mid, int r) {
+    int merge(vector<int> &nums, int low, int mid, int high) {
         vector<int> temp;
-        int i = l, j = mid + 1;
+        int cnt = 0;
+        int i = mid, j = high;
 
-        while(i <= mid && j <= r) {
-            if(nums[i] < nums[j])
-                temp.push_back(nums[i++]);
-            else
-                temp.push_back(nums[j++]);
+        while(i >= low && j > mid) {
+            if(1LL * nums[i] > 2LL * nums[j]) {
+                cnt += (j - mid);
+                i--;
+            } else j--;
         }
 
-        while(i <= mid)
+        i = low, j = mid + 1;
+
+        while(i <= mid && j <= high) {
+            if(nums[i] > nums[j])
+                temp.push_back(nums[j++]);
+            else temp.push_back(nums[i++]);
+        }
+
+        while(i <= mid) 
             temp.push_back(nums[i++]);
-        while(j <= r)
+
+        while(j <= high)
             temp.push_back(nums[j++]);
 
-        for(int w=l, x=0; w<=r; w++, x++)
+        for(int w=low, x=0; w<=high; w++, x++)
             nums[w] = temp[x];
-    }
-
-    int countPairs(vector<int> &nums, int l, int mid, int r) {
-        int cnt = 0;
-        int i = l, j = mid + 1;
-
-        while(i <= mid) {
-            while(j <= r && 1LL * nums[i] > 2LL * nums[j])
-                j++;
-            cnt += (j - (mid + 1));
-            i++;
-        }
-
+        
         return cnt;
     }
 
-    int mergeSort(vector<int> &nums, int l, int r) {
-        if (l >= r)
+    int mergeSort(vector<int> &nums, int low, int high) {
+        if(low >= high)
             return 0;
         
         int cnt = 0;
-        int mid = (l + r) / 2;
-        cnt += mergeSort(nums, l, mid);
-        cnt += mergeSort(nums, mid + 1, r);
-        cnt += countPairs(nums, l, mid, r);
-        merge(nums, l, mid, r);
+        int mid = (low + high) / 2;
+        cnt += mergeSort(nums, low, mid);
+        cnt += mergeSort(nums, mid + 1, high);
+        cnt += merge(nums, low, mid, high);
         return cnt;
     }
 
