@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/kashyap-1811/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-detonate-the-maximum-bombs](https://github.com/kashyap-1811/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/kashyap-1811/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kashyap-1811/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kashyap-1811/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kashyap-1811/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2294-minimum-time-to-complete-trips](https://github.com/kashyap-1811/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kashyap-1811/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kashyap-1811/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kashyap-1811/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kashyap-1811/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2294-minimum-time-to-complete-trips](https://github.com/kashyap-1811/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kashyap-1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kashyap-1811/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
