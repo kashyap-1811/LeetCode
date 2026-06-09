@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kashyap-1811/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1922-count-good-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/kashyap-1811/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2063-vowels-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kashyap-1811/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kashyap-1811/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kashyap-1811/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/kashyap-1811/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2063-vowels-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kashyap-1811/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashyap-1811/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/kashyap-1811/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/kashyap-1811/LeetCode/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kashyap-1811/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-two-best-non-overlapping-events](https://github.com/kashyap-1811/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2063-vowels-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kashyap-1811/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/kashyap-1811/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kashyap-1811/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1138,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0062-unique-paths) |
+| [2063-vowels-of-all-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kashyap-1811/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Sliding Window
