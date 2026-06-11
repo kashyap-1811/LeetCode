@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kashyap-1811/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kashyap-1811/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kashyap-1811/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kashyap-1811/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/kashyap-1811/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -1445,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kashyap-1811/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/kashyap-1811/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/kashyap-1811/LeetCode/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kashyap-1811/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1452,5 +1454,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kashyap-1811/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/kashyap-1811/LeetCode/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashyap-1811/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kashyap-1811/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kashyap-1811/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kashyap-1811/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
