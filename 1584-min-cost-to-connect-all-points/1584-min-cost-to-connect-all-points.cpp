@@ -1,43 +1,38 @@
 class Solution {
 public:
-    vector<int> par;
-
-    int find (int x) {
-        if (par[x] == x)
-            return x;
-        
-        return par[x] = find(par[x]);
-    } 
-
-    void unite(int a, int b) {
-        par[a] = b;
-    }
-
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
-        par.resize(n);
-        for (int i = 0; i < n; i++)
-            par[i] = i;
-        
-        vector<vector<int>> edges;
+        vector<vector<pair<int, int>>> adj(n);
+
         for (int i = 0; i < n; i++) {
             auto p1 = points[i];
             for (int j = i + 1; j < n; j++) {
                 auto p2 = points[j];
                 int d = abs(p1[0] - p2[0]) + abs(p1[1] - p2[1]);
-                edges.push_back({d, i, j});
+                adj[i].push_back({j, d});
+                adj[j].push_back({i, d});
             }
         }
 
-        sort(edges.begin(), edges.end());
         int totalCost = 0;
 
-        for (auto e : edges) {
-            int cost = e[0], u = e[1], v = e[2];
+        vector<bool> vis(n, false);
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
+        pq.push({0, 0});
 
-            if (find(u) != find(v)) {
-                totalCost += cost;
-                unite(par[u], par[v]);
+        while (!pq.empty()) {
+            auto [d, u] = pq.top();
+            pq.pop();
+
+            if (vis[u])
+                continue;
+            
+            vis[u] = true;
+            totalCost += d;
+
+            for (auto [v, wt] : adj[u]) {
+                if (!vis[v]) 
+                    pq.push({wt, v});
             }
         }
 
