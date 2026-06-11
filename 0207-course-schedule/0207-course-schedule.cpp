@@ -1,32 +1,31 @@
 class Solution {
-public:
-    bool DFS(int u, vector<vector<int>>& adj, vector<bool>& vis, vector<bool>& rec){
-        vis[u] = true;
-        rec[u] = true;
+public:     
+    bool isCycle(int i, vector<vector<int>> &prerequisites, vector<bool> &vis, vector<bool> &rec) {
+        vis[i] = true;
+        rec[i] = true;
 
-        for(int v : adj[u]){
-            if(rec[v])
-                return false;
-            else if(!vis[v] && !DFS(v, adj, vis, rec))
-                return false;
+        for (auto &p : prerequisites) {
+            int u = p[0], v = p[1];
+
+            if (i != u)
+                continue;
+            
+            if (rec[v] || (!vis[v] && isCycle(v, prerequisites, vis, rec)))
+                return true;
         }
 
-        rec[u] = false;
-        return true;
+        rec[i] = false;
+        return false;
     }
 
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>>adj(numCourses, vector<int>());
+    bool canFinish(int n, vector<vector<int>>& prerequisites) {
+        vector<bool> vis(n, false);
+        vector<bool> rec(n, false);
 
-        for(auto edge : prerequisites)
-            adj[edge[0]].push_back(edge[1]);
-
-        vector<bool>vis(numCourses, false), rec(numCourses, false);
-
-        for(int i=0; i<numCourses; i++)
-            if(!vis[i])
-                if(!DFS(i, adj, vis, rec))
-                    return false;
+        for (int i = 0; i < n; i++) {
+            if (!vis[i] && isCycle(i, prerequisites, vis, rec))
+                return false;
+        }
 
         return true;
     }
