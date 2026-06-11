@@ -772,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kashyap-1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashyap-1811/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashyap-1811/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/kashyap-1811/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/kashyap-1811/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kashyap-1811/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kashyap-1811/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashyap-1811/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kashyap-1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/kashyap-1811/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/kashyap-1811/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashyap-1811/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/kashyap-1811/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/kashyap-1811/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -1006,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kashyap-1811/LeetCode/tree/master/0399-evaluate-division) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashyap-1811/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/kashyap-1811/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kashyap-1811/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kashyap-1811/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/kashyap-1811/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kashyap-1811/LeetCode/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashyap-1811/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/kashyap-1811/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
@@ -1446,5 +1451,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kashyap-1811/LeetCode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/kashyap-1811/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/kashyap-1811/LeetCode/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashyap-1811/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kashyap-1811/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 <!---LeetCode Topics End-->
