@@ -1413,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/kashyap-1811/LeetCode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kashyap-1811/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1280-students-and-examinations](https://github.com/kashyap-1811/LeetCode/tree/master/1280-students-and-examinations) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kashyap-1811/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Data Stream
 |  |
 | ------- |
