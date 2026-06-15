@@ -11,20 +11,22 @@
  */
 class Solution {
 public:
-    int traverse(TreeNode *root, int &maxDist){
-        if(root == nullptr)
+    int maxAns = 0;
+
+    int check(TreeNode *root) {
+        if (root == nullptr)
             return 0;
         
-        int left = traverse(root->left, maxDist);
-        int right = traverse(root->right, maxDist);
+        int left = check(root->left);
+        int right = check(root->right);
 
-        maxDist = max(maxDist, left + right);
-        return max(left, right) + 1;
+        maxAns = max(maxAns, left + right);
+
+        return 1 + max(left, right);
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        int maxDist = 0;
-        traverse(root, maxDist);
-        return maxDist;
+        check(root);
+        return maxAns;
     }
 };
