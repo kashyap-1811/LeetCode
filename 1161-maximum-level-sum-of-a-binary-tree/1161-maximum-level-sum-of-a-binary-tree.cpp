@@ -11,28 +11,42 @@
  */
 class Solution {
 public:
-    void preOrder(TreeNode *root, map<int, int> &m, int lvl){
-        if(root == nullptr)
-            return;
-        
-        m[lvl] += root->val;
-        preOrder(root->left, m, lvl+1);
-        preOrder(root->right, m, lvl+1);
-    }
-
     int maxLevelSum(TreeNode* root) {
-        map<int, int> m;
-        preOrder(root, m, 1);
+        queue<TreeNode*> q;
+        q.push(root);
+        q.push(nullptr);
 
-        int maxSum = m[1];
-        int x = 1;
+        int ansLvl = 0;
+        int ansSum = INT_MIN;
+        int currLvl = 1;
+        int currSum = 0;
 
-        for(auto &p : m){
-            if(p.second > m[x]){
-                x = p.first;
+        while (!q.empty()) {
+            auto curr = q.front();
+            q.pop();
+
+            if (curr == nullptr) {
+                if (ansSum < currSum) {
+                    ansSum = currSum;
+                    ansLvl = currLvl;
+                }
+
+                currSum = 0;
+                currLvl++;
+
+                if (!q.empty())
+                    q.push(nullptr);
+                else
+                    break;
+            } else {
+                currSum += curr->val;
+                if (curr->left)
+                    q.push(curr->left);
+                if (curr->right)
+                    q.push(curr->right);
             }
         }
 
-        return x;
+        return ansLvl;
     }
 };
