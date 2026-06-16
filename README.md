@@ -891,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/kashyap-1811/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kashyap-1811/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0993-cousins-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1073-number-of-enclaves](https://github.com/kashyap-1811/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/kashyap-1811/LeetCode/tree/master/1104-coloring-a-border) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/kashyap-1811/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kashyap-1811/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/kashyap-1811/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
@@ -1345,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/kashyap-1811/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
@@ -1436,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashyap-1811/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/kashyap-1811/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Quickselect
 |  |
 | ------- |
