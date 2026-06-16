@@ -11,27 +11,26 @@
  */
 class Solution {
 public:
-    void preOrder(TreeNode* root, queue<TreeNode*>& q){
-        if(root == nullptr)
-            return;
-
-        q.push(root);
-        preOrder(root->left, q);
-        preOrder(root->right, q);
-    }
-
     void flatten(TreeNode* root) {
-        queue<TreeNode*>q;
+        if (root == nullptr)
+            return;
+        
+        stack<TreeNode*> st;
+        st.push(root);
 
-        preOrder(root, q);
+        while (!st.empty()) {
+            TreeNode *curr = st.top();
+            st.pop();
 
-        while(!q.empty()){
-            TreeNode* temp = q.front();
-            q.pop();
+            if (curr->right)
+                st.push(curr->right);
+            if (curr->left)
+                st.push(curr->left);
 
-            temp->left = nullptr;
-            if(!q.empty())
-                temp->right = q.front();
+            if (!st.empty()) 
+                curr->right = st.top();
+                
+            curr->left = nullptr;
         }
     }
 };
