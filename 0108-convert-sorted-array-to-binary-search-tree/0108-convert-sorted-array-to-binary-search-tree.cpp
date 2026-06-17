@@ -11,21 +11,20 @@
  */
 class Solution {
 public:
-    TreeNode* recurse(vector<int> &nums, int st, int end) {
-        int mid = (st + end) / 2;
-        TreeNode *new_node = new TreeNode(nums[mid]);
+    TreeNode* create(vector<int> &nums, int l, int r) {
+        if (l > r)
+            return nullptr;
 
-        if(st == end)
-            return new_node;
-        
-        if(st != mid)
-            new_node->left = recurse(nums, st, mid-1);
-        new_node->right = recurse(nums, mid+1, end);
+        int mid = (l + r) / 2;
+        TreeNode *root = new TreeNode(nums[mid]);
 
-        return new_node;
+        root->left = create(nums, l, mid - 1);
+        root->right = create(nums, mid + 1, r);
+
+        return root; 
     }
 
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        return recurse(nums, 0, nums.size()-1);
+        return create(nums, 0, nums.size() - 1);
     }
 };
