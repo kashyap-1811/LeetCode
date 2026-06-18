@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kashyap-1811/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/kashyap-1811/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/kashyap-1811/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/kashyap-1811/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/kashyap-1811/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/kashyap-1811/LeetCode/tree/master/0388-longest-absolute-file-path) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kashyap-1811/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kashyap-1811/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kashyap-1811/LeetCode/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/kashyap-1811/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/kashyap-1811/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/kashyap-1811/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -1295,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kashyap-1811/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashyap-1811/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kashyap-1811/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0432-all-oone-data-structure](https://github.com/kashyap-1811/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -1325,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -1361,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kashyap-1811/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
