@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kashyap-1811/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kashyap-1811/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0279-perfect-squares](https://github.com/kashyap-1811/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/kashyap-1811/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/kashyap-1811/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashyap-1811/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kashyap-1811/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kashyap-1811/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/kashyap-1811/LeetCode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/kashyap-1811/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/kashyap-1811/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/kashyap-1811/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/kashyap-1811/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kashyap-1811/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kashyap-1811/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kashyap-1811/LeetCode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/kashyap-1811/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/kashyap-1811/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/kashyap-1811/LeetCode/tree/master/0399-evaluate-division) |
