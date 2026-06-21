@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/kashyap-1811/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/kashyap-1811/LeetCode/tree/master/0763-partition-labels) |
 | [0807-custom-sort-string](https://github.com/kashyap-1811/LeetCode/tree/master/0807-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kashyap-1811/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/kashyap-1811/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/kashyap-1811/LeetCode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/kashyap-1811/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/kashyap-1811/LeetCode/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/kashyap-1811/LeetCode/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/kashyap-1811/LeetCode/tree/master/0807-custom-sort-string) |
 | [0831-masking-personal-information](https://github.com/kashyap-1811/LeetCode/tree/master/0831-masking-personal-information) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/kashyap-1811/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0633-sum-of-square-numbers](https://github.com/kashyap-1811/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/kashyap-1811/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/kashyap-1811/LeetCode/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/kashyap-1811/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/kashyap-1811/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kashyap-1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/kashyap-1811/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/kashyap-1811/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/kashyap-1811/LeetCode/tree/master/0738-monotone-increasing-digits) |
+| [0763-partition-labels](https://github.com/kashyap-1811/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/kashyap-1811/LeetCode/tree/master/0876-hand-of-straights) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kashyap-1811/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
