@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/kashyap-1811/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/kashyap-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/kashyap-1811/LeetCode/tree/master/1830-count-good-meals) |
+| [1833-maximum-ice-cream-bars](https://github.com/kashyap-1811/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kashyap-1811/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/kashyap-1811/LeetCode/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/kashyap-1811/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kashyap-1811/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kashyap-1811/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/kashyap-1811/LeetCode/tree/master/1752-arithmetic-subarrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/kashyap-1811/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kashyap-1811/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2054-two-best-non-overlapping-events](https://github.com/kashyap-1811/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/kashyap-1811/LeetCode/tree/master/2092-find-all-people-with-secret) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kashyap-1811/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kashyap-1811/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kashyap-1811/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/kashyap-1811/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kashyap-1811/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kashyap-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -1290,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/kashyap-1811/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kashyap-1811/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/kashyap-1811/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Design
 |  |
 | ------- |
