@@ -1450,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kashyap-1811/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/kashyap-1811/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/kashyap-1811/LeetCode/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kashyap-1811/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kashyap-1811/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Data Stream
 |  |
