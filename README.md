@@ -1446,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/kashyap-1811/LeetCode/tree/master/0584-find-customer-referee) |
 | [0619-biggest-single-number](https://github.com/kashyap-1811/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/kashyap-1811/LeetCode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/kashyap-1811/LeetCode/tree/master/0626-exchange-seats) |
 | [1075-project-employees-i](https://github.com/kashyap-1811/LeetCode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kashyap-1811/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/kashyap-1811/LeetCode/tree/master/1251-average-selling-price) |
