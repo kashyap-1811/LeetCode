@@ -11,3 +11,10 @@ BEGIN
       LIMIT M, 1
   );
 END
+
+-- SELECT MIN(temp.salary) FROM (
+--     SELECT e.salary
+--     FROM employee e
+--     ORDER BY salary DESC
+--     LIMIT N
+-- ) as temp;
