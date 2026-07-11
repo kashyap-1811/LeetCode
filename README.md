@@ -934,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kashyap-1811/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [2685-count-the-number-of-complete-components](https://github.com/kashyap-1811/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kashyap-1811/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3863-power-grid-maintenance](https://github.com/kashyap-1811/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kashyap-1811/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kashyap-1811/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2662-check-knight-tour-configuration](https://github.com/kashyap-1811/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [2685-count-the-number-of-complete-components](https://github.com/kashyap-1811/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kashyap-1811/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kashyap-1811/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3863-power-grid-maintenance](https://github.com/kashyap-1811/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -1523,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kashyap-1811/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/kashyap-1811/LeetCode/tree/master/0684-redundant-connection) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kashyap-1811/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2685-count-the-number-of-complete-components](https://github.com/kashyap-1811/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1531,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kashyap-1811/LeetCode/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashyap-1811/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kashyap-1811/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2685-count-the-number-of-complete-components](https://github.com/kashyap-1811/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kashyap-1811/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Minimum Spanning Tree
 |  |
