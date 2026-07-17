@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kashyap-1811/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kashyap-1811/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-find-words-containing-character](https://github.com/kashyap-1811/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kashyap-1811/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/kashyap-1811/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1208,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kashyap-1811/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2478-longest-nice-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kashyap-1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kashyap-1811/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kashyap-1811/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kashyap-1811/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kashyap-1811/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/kashyap-1811/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kashyap-1811/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kashyap-1811/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kashyap-1811/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Bucket Sort
 |  |
@@ -1257,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/kashyap-1811/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kashyap-1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/kashyap-1811/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kashyap-1811/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kashyap-1811/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kashyap-1811/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kashyap-1811/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1420,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/kashyap-1811/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/kashyap-1811/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kashyap-1811/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kashyap-1811/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Interactive
 |  |
 | ------- |
